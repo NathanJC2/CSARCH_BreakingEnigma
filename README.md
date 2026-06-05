@@ -24,7 +24,7 @@ Guide Snapshot
 Project Info
 - Title: Breaking Enigma: Secrets, War, and the Birth of Computing
 - Theme: Historical computing
-- Team: Group 9 (Dustin Josh Bandigan, Nathan James Catapang, Raeka Estrelle Hernaez, Paul Rhazzel Serrano, Chelsea Nichole Tamayo)
+- Members: Group 9 (Dustin Josh Bandigan, Nathan James Catapang, Raeka Estrelle Hernaez, Paul Rhazzel Serrano, Chelsea Nichole Tamayo)
 
 Color Palette
   Aiming for an old war type vibe, Monochrome/Muted colors
