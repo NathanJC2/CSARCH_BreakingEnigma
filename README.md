@@ -103,21 +103,19 @@ Shows how many places the letter/s are moved using the interactable rotors, show
 <img width="1023" height="1289" alt="image" src="https://github.com/user-attachments/assets/14d6a4ae-d1a8-4493-8149-58fde2a263ef" />
 
 
-# **Interactive Historical Timeline (START)** 
+## **Interactive Historical Timeline (START)** 
 
 <img width="1007" height="1254" alt="image" src="https://github.com/user-attachments/assets/8ee33a18-3023-4bbf-9cbd-4a0c321857c5" />
 
-**----- Start of picture text -----**<br>
-Interactive Historical Timeline (END)<br>**----- End of picture text -----**<br>
+## **Interactive Historical Timeline (END)**
 
 <img width="980" height="1256" alt="image" src="https://github.com/user-attachments/assets/413bd7ea-9f66-4c53-bdb2-ef9169792fff" />
 
-**Interactive Historical Timeline (When the Timeline is interacted with)** 
+## **Interactive Historical Timeline (When the Timeline is interacted with)** 
 
 <img width="979" height="1298" alt="image" src="https://github.com/user-attachments/assets/58c41d5d-486f-4052-9eb9-c77190311b30" />
 
-**----- Start of picture text -----**<br>
-Practice Challenges Tab<br>**----- End of picture text -----**<br>
+## **Practice Challenges Tab<br>**
 
 <img width="966" height="1227" alt="image" src="https://github.com/user-attachments/assets/16c40c04-0cf2-48bc-9a5c-8aa053498365" />
 
