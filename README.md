@@ -91,28 +91,35 @@ _all are subject to change until the final submission._
 ## **VISUAL REPRESENTATION/S (NON-FINAL)** 
 
 <img width="982" height="1257" alt="image" src="https://github.com/user-attachments/assets/0d74e23a-c9b4-465c-89dd-bd194c3fe193" />
+
 ## **Rotor Encryption Area** 
 
 <img width="964" height="1271" alt="image" src="https://github.com/user-attachments/assets/b63dd8ec-e719-4ed9-ade0-05f282c3e2f0" />
+
 ## **Rotor Encryption Area (When Encrypting a Message)** 
 
 Shows how many places the letter/s are moved using the interactable rotors, shows how each letter was moved. Input of  “HELLO WORLD!” encrypted output of “ZWDDG OGJDV!” 
 
+<img width="1023" height="1289" alt="image" src="https://github.com/user-attachments/assets/14d6a4ae-d1a8-4493-8149-58fde2a263ef" />
+
+
 # **Interactive Historical Timeline (START)** 
 
-**==> picture [228 x 13] intentionally omitted <==**
+<img width="1007" height="1254" alt="image" src="https://github.com/user-attachments/assets/8ee33a18-3023-4bbf-9cbd-4a0c321857c5" />
 
 **----- Start of picture text -----**<br>
 Interactive Historical Timeline (END)<br>**----- End of picture text -----**<br>
 
+<img width="980" height="1256" alt="image" src="https://github.com/user-attachments/assets/413bd7ea-9f66-4c53-bdb2-ef9169792fff" />
 
 **Interactive Historical Timeline (When the Timeline is interacted with)** 
 
-**==> picture [149 x 14] intentionally omitted <==**
+<img width="979" height="1298" alt="image" src="https://github.com/user-attachments/assets/58c41d5d-486f-4052-9eb9-c77190311b30" />
 
 **----- Start of picture text -----**<br>
 Practice Challenges Tab<br>**----- End of picture text -----**<br>
 
+<img width="966" height="1227" alt="image" src="https://github.com/user-attachments/assets/16c40c04-0cf2-48bc-9a5c-8aa053498365" />
 
 ## **Practice Challenges Tab (Right and Wrong answer)** 
 
