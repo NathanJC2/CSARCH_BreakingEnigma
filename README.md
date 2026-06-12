@@ -90,8 +90,10 @@ _all are subject to change until the final submission._
 
 ## **VISUAL REPRESENTATION/S (NON-FINAL)** 
 
+<img width="982" height="1257" alt="image" src="https://github.com/user-attachments/assets/0d74e23a-c9b4-465c-89dd-bd194c3fe193" />
 ## **Rotor Encryption Area** 
 
+<img width="964" height="1271" alt="image" src="https://github.com/user-attachments/assets/b63dd8ec-e719-4ed9-ade0-05f282c3e2f0" />
 ## **Rotor Encryption Area (When Encrypting a Message)** 
 
 Shows how many places the letter/s are moved using the interactable rotors, shows how each letter was moved. Input of  “HELLO WORLD!” encrypted output of “ZWDDG OGJDV!” 
